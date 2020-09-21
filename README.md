@@ -14,6 +14,6 @@ For those wanting to try it out:
 6. Run helper.R file then run plots.R file.
 7. Click the ShinyApp in the app.R file.
 
-You may also download data that are used for generating individual figures https://github.com/michalmichalak997/COVID-19/blob/master/Data_and_code/Data_for_figures.zip(https://github.com/michalmichalak997/COVID-19/blob/master/Data_and_code/Data_for_figures.zip)
+You may also download data that are used for generating individual figures https://github.com/michalmichalak997/COVID-19/blob/master/Data_and_code/Data_for_figures.zip (https://github.com/michalmichalak997/COVID-19/blob/master/Data_and_code/Data_for_figures.zip)
 
 If you have questions about the code or the procedure, please contact mimichalak@us.edu.pl.
