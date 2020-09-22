@@ -16,4 +16,9 @@ For those wanting to try it out:
 
 You may also download data that are used for generating individual figures https://github.com/michalmichalak997/COVID-19/blob/master/Data_and_code/Data_for_figures.zip
 
+The code has been developed in R programming language (R version 3.6.1 (2019-07-05)). It was tested on the following PC:
+System: Windows 10 Home
+Intel(R) Core(TM) i7-7500U CPU @ 2.70 GHz 2.90 GHz
+RAM: 16GB
+
 If you have questions about the code or the procedure, please contact mimichalak@us.edu.pl.
