@@ -23,6 +23,6 @@ RAM: 16GB
 
 If you have questions about the code or the procedure, please contact mimichalak@us.edu.pl.
 
-#Update December 4, 2020
+# Update December 4, 2020
 
 We had a bug in the code (helper.R file): when calculating LPR and GPR we used a truncated data frame. Please use Data and code_December_4_update and Data for figures_December_4_update catalogues.
