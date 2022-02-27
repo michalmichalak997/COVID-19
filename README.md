@@ -26,3 +26,7 @@ If you have questions about the code or the procedure, please contact mimichalak
 # Update December 4, 2020
 
 We had a bug in the code (helper.R file): when calculating LPR and GPR we used a truncated data frame. Please use Data and code_December_4_update and Data for figures_December_4_update catalogues.
+
+# Update February 27, 2022
+
+A bug in the computer code has been corrected in the definition of output$map7. The name of the data frame "CSIR_limited_df" was incorrect and it should be: "CSIR_df".
