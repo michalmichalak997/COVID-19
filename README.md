@@ -1,5 +1,7 @@
 # Reducing bias in risk indices for COVID-19
 
+Our paper "Reducing bias in risk indices for COVID-19" was published in Geospatial Health  https://geospatialhealth.net/index.php/gh/article/view/1013 
+
 This code allows to calculate a variety of epidemiological measures used in spatiotemporal modelling of the COVID-19 disease. We introduce a new risk estimate that is biased neither by the differences in population sizes nor by the spatial heterogeneity of testing.
 
 For rapid investigation of the interactive plots used in the paper, please visit https://michalmichalak997.shinyapps.io/shiny_corona/. It may need up to one minute to get the figures visualized. 
