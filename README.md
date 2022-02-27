@@ -1,4 +1,4 @@
-# A systematic framework for spatiotemporal modelling of COVID-19 disease
+# Reducing bias in risk indices for COVID-19
 
 This code allows to calculate a variety of epidemiological measures used in spatiotemporal modelling of the COVID-19 disease. We introduce a new risk estimate that is biased neither by the differences in population sizes nor by the spatial heterogeneity of testing.
 
